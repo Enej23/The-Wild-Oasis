@@ -40,7 +40,7 @@ The Wild Oasis is a comprehensive hotel management application designed specific
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Enej23/Fast-React-Pizza-CO..git
+   git clone https://github.com/Enej23//The-Wild-Oasis.git
    
 2. **Locate to the main directory and install dependencies**:
    ```sh
