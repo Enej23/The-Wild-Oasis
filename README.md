@@ -1,4 +1,4 @@
-# The Wild Oasis
+# The Wild Oasis - Admin app
 
 Check out the app at : https://the-wild-oasis-divja-oaza.netlify.app
 
